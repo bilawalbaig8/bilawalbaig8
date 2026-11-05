@@ -1,4 +1,4 @@
-<img src="assets/banner.jpg" alt="Game Art, Tools, Playables and AI" width="100%">
+<img src="assets/banner-main.jpg" alt="Game Art x Technical Art x AI. From concept to playable: game development, playable ads, 3D asset production, tools and automation, AI-driven workflows." width="100%">
 
 <img align="right" width="140" src="assets/photo.png" alt="Bilawal Baig">
 
