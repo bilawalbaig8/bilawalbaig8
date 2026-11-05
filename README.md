@@ -40,10 +40,27 @@ Small experiments in AI-driven game art production. I guide the direction and re
 - **[Kittydoku](https://play.google.com/store/apps/details?id=com.mindstorm.kittydoku):** the first experiment. AI handled the workflow from tile concepts and artwork to 3D modeling, animation, VFX and Unity integration.
 - **[Toyland Go!](https://play.google.com/store/apps/details?id=com.mindstorm.goodsortshooter)** and **[Mall Bus Jam](https://play.google.com/store/apps/details?id=com.mindstorm.molebusjam):** the same approach on two more games. The artwork for both was done in one day, with a lot of human direction and review.
 
-## Games linked to my work
+## Games and projects I've worked on
 
-- **[Hexa Sort](https://play.google.com/store/apps/details?id=com.gamebrain.hexasort)** and **[Bloom Sort](https://play.google.com/store/apps/details?id=com.bloom.sort):** mobile games listed under my role at Mindstorm Studios.
-- **[Area of Darkness: Sentinel](https://store.steampowered.com/app/626810/Area_of_Darkness_Sentinel/):** a cinematic VR adventure on Steam, listed under my role at Rematch Studios.
+These are the titles listed under my roles on LinkedIn, grouped by company. Some older store pages are no longer online, so a few titles have no link.
+
+**Mindstorm Studios**
+- Mobile games: [Hexa Sort](https://play.google.com/store/apps/details?id=com.gamebrain.hexasort), [Bloom Sort](https://play.google.com/store/apps/details?id=com.bloom.sort) ([work on Behance](https://www.behance.net/gallery/206288621/Bloom-Sort-World)), [Match Ball 3D](https://play.google.com/store/apps/details?id=com.match.match3d), [ParkoV](https://play.google.com/store/apps/details?id=com.thunderzone.parkov), [Tile Garden](https://play.google.com/store/apps/details?id=com.tilegarden.match3), [Bubble Garden](https://play.google.com/store/apps/details?id=com.bubble.garden)
+- Also listed, store pages no longer online: Find Ball 3D, Find It 3D, Happy Grave, Foot Spa
+- Playable ads: [Unity Gameplay Ads](https://www.behance.net/gallery/155307473/Unity-Gameplay-ADs)
+
+**Mars 1982 Ltd**
+- [Sanrio Blast](https://www.behance.net/gallery/106410371/Sanrio-Blast), [GlobeMatcher](https://www.behance.net/gallery/106389771/GlobeMatcher) and [Robot Train AR](https://www.behance.net/gallery/77810529/Robot-Train-AR) on Behance. Tap&Win is also listed, but its store page is no longer online.
+
+**Rematch Studios**
+- [Area of Darkness: Sentinel](https://store.steampowered.com/app/626810/Area_of_Darkness_Sentinel/), a cinematic VR adventure on Steam
+- [Whackimals AR](https://www.behance.net/gallery/77819629/Whackimals-AR) on Behance
+
+**Dead Pixel Labs**
+- [Them or Us](https://store.steampowered.com/app/1964020/) on Steam, plus my animation work: [FPS animations](https://www.behance.net/gallery/206443485/DeadPixel-FPS-Animations) and [Unreal animation](https://www.behance.net/gallery/157388221/DeadPixel-Labs-Unreal-Animation)
+
+**Mictlan: An Ancient Mythical Tale**
+- [Steam page](https://store.steampowered.com/app/1411900/) and my [cinematic and animation work](https://www.behance.net/gallery/206426689/Mictlan-Cinematic-and-Animation) on Behance
 
 ## Experience
 
