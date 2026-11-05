@@ -1,37 +1,68 @@
-<div align="center">
-  <img src="assets/header.svg" alt="Bilawal Baig, CG Technical Artist, Game Development" width="100%">
-</div>
+<img src="assets/banner.jpg" alt="Game Art, Tools, Playables and AI" width="100%">
+
+<img align="right" width="140" src="assets/photo.png" alt="Bilawal Baig">
+
+# Bilawal Baig
+
+**AI + Game Pipeline Lead** · Technical Art, Animation & Game Development · three.js Playable Ads
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
+[![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
+
+<br clear="right">
 
 ## About
 
-CG Technical Artist / 3D Technical Artist working in game development.
-I work on technical art, shaders, playable ads and AI-assisted creative production pipelines.
+I use AI and code to rethink how game art is created, production tools are built, and playable ads are developed.
+
+My background is in 3D art and technical game production. My work has moved from creating game assets to building smarter ways to create them. Today I focus on AI-driven game art production, building custom tools with AI, and coding playable ads.
+
+My approach is hands-on: experiment, build, test, and improve.
+
+## What I work on
+
+- **AI-driven game art production:** bringing AI tools into existing production so there is less repetitive work.
+- **Custom tools and AI agents:** tools, skills and agents that solve practical production problems.
+- **Playable ads:** a plugin that converts Unity game projects into web-based playable experiences, tested on real projects and still being refined.
+- **Creative production for mobile games:** planning video ads, playable ads and creative variations, and removing bottlenecks in the pipeline.
 
 ## Tech stack
 
-| | |
-|---|---|
-| **Engines and DCC** | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white) |
-| **Code** | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Graphics and web** | Shaders · ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) |
-| **Workflow** | AI-assisted art and game production |
+- **Engines and DCC:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+- **Code:** ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Graphics and web:** Shaders · ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-## Featured projects (original work)
+## AI production experiments
 
-- **[CocosCreator-Batch-Builder](https://github.com/bilawalbaig8/CocosCreator-Batch-Builder)**: starter kit for mass-building Cocos Creator 3.8.7 playable ads. Automated multi-scene builds, iteration variants, superHTML packaging, Playwright scene validation and a local web dashboard.
-- **[hire-an-engineer](https://github.com/bilawalbaig8/hire-an-engineer)**: a skill that turns an AI coding tool into a planning-and-building engineer for people who build with AI but have no engineering background. Works with Claude Code, Cursor, Codex and other agents. MIT licensed.
-- **[delegate-to-gemini](https://github.com/bilawalbaig8/delegate-to-gemini)**: a Claude Code skill that sends research, drafting and analysis tasks to Gemini and keeps shared project memory between both tools.
+Small experiments in AI-driven game art production. I guide the direction and review the results; AI carries out much of the art work.
 
-## Other repositories
+- **[Kittydoku](https://play.google.com/store/apps/details?id=com.mindstorm.kittydoku):** the first experiment. AI handled the workflow from tile concepts and artwork to 3D modeling, animation, VFX and Unity integration.
+- **[Toyland Go!](https://play.google.com/store/apps/details?id=com.mindstorm.goodsortshooter)** and **[Mall Bus Jam](https://play.google.com/store/apps/details?id=com.mindstorm.molebusjam):** the same approach on two more games. The artwork for both was done in one day, with a lot of human direction and review.
 
-| Repository | What it is |
-|---|---|
-| [MassiveRaid](https://github.com/bilawalbaig8/MassiveRaid) | Unity project (C#) |
-| [Assignment3FunctionsGUI](https://github.com/bilawalbaig8/Assignment3FunctionsGUI) | C# functions with a GUI (assignment) |
-| [BookLibrary_A02](https://github.com/bilawalbaig8/BookLibrary_A02) | Java, UoPeople assignment |
-| [Python-Practice](https://github.com/bilawalbaig8/Python-Practice) | Python practice exercises |
+## Games linked to my work
 
-Forks, not my original work: [UnrealEditorPythonScripts](https://github.com/bilawalbaig8/UnrealEditorPythonScripts) (from mamoniem) and [MictlanMap](https://github.com/bilawalbaig8/MictlanMap) (from mictlanthegame).
+- **[Hexa Sort](https://play.google.com/store/apps/details?id=com.gamebrain.hexasort)** and **[Bloom Sort](https://play.google.com/store/apps/details?id=com.bloom.sort):** mobile games listed under my role at Mindstorm Studios.
+- **[Area of Darkness: Sentinel](https://store.steampowered.com/app/626810/Area_of_Darkness_Sentinel/):** a cinematic VR adventure on Steam, listed under my role at Rematch Studios.
+
+## Experience
+
+- **2020 – now:** Lead 3D Artist — Creative Production, Playable Ads & AI-Assisted Pipelines · Mindstorm Studios (Sr. 3D Artist before that)
+- **2020 – 2026:** Technical Animator (part-time) · Dead Pixel Labs, LLC
+- **2020 – 2022:** Character Technical and Mocap Consultant (part-time) · Mictlan: An Ancient Mythical Tale
+- **2019 – 2020:** Game Project and Production Manager (remote) · Mars 1982 Ltd
+- **2016 – 2019:** Technical Game Artist and Animator · Rematch Studios
+- **2013 – 2016:** Senior Creative Producer · Back Check Group, and Assistant Creative Manager · Red Tape Media
+
+## Education
+
+- BS, Computer Science · University of the People (in progress, 2023 – 2028)
+- Master's in Media Sciences, Design & Advertising · Iqra University (2014 – 2018)
+
+## Open-source projects
+
+- **[CocosCreator-Batch-Builder](https://github.com/bilawalbaig8/CocosCreator-Batch-Builder):** starter kit for mass-building Cocos Creator 3.8.7 playable ads. Automated multi-scene builds, iteration variants, superHTML packaging, Playwright scene validation and a local web dashboard.
+- **[hire-an-engineer](https://github.com/bilawalbaig8/hire-an-engineer):** a skill that turns an AI coding tool into a planning-and-building engineer for people who build with AI but have no engineering background. Works with Claude Code, Cursor, Codex and other agents. MIT licensed.
+- **[delegate-to-gemini](https://github.com/bilawalbaig8/delegate-to-gemini):** a Claude Code skill that sends research, drafting and analysis tasks to Gemini and keeps shared project memory between both tools.
 
 ## GitHub stats
 
