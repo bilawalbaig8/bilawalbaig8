@@ -15,3 +15,9 @@ Backups: original profile at backup/README-2026-11-10.md and branch backup/profi
 Rebuilt the meditation illustration as a complete transparent character layer using the built-in image-generation tool, referencing the supplied original banner. Prompt: Preserve the exact likeness, costume and full cross-legged meditation pose; both open hands, knees and shoes fully visible; orange and violet rim lighting; transparent background; no logos, room, rings or text. Saved as assets/meditation-character-layer.png.
 
 Animation was rendered locally from separate SVG layers, with a six-second sinusoidal levitation cycle, phase-offset motion and gentle rotation for eight independent tool tokens, pulsing floor rings and orbiting particles. The character is fitted with preserveAspectRatio meet, with safe margins at every motion extreme. No Higgsfield generation was used. The tool grid stays still. assets/toolkit-floating.gif is the animation, with assets/toolkit-floating.png as the reduced-motion alternative. The full scene source at time zero is assets/toolkit-floating.svg.
+
+## Front-facing studio contact artwork
+
+Used built-in image generation with the original portrait and illustrated GitHub avatar as identity references. Prompt: new wide landscape studio illustration; Bilawal facing the camera, seated in a charcoal chair, relaxed welcoming open-palm pose, entire body, hands, shoes and chair visible with safe margins; dark hoodie and red-black headphones, warm orange and purple studio lights, monitors and shelves; no text. Saved as assets/contact-studio.jpg.
+
+The contact panel fits the entire image with preserveAspectRatio meet, without cover/slice cropping. A locally rendered six-second ambient particle loop is stored at assets/connect-studio.gif; the pose and camera remain steady. Static reduced-motion fallback: assets/connect-studio.png. Source composition: assets/connect-studio.svg.

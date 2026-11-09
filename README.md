@@ -102,7 +102,10 @@ A year of building, mapped into a city. Updated daily from my GitHub contributio
   <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Bilawal Baig’s GitHub contributions as a 3D city">
 </picture>
 
-<img src="assets/connect-v2.svg" width="100%" alt="Let’s build something worth playing. GitHub, LinkedIn and Behance.">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/connect-studio.png">
+  <img src="assets/connect-studio.gif" width="100%" alt="Bilawal seated facing the camera in his game-development studio, with the complete chair and pose visible. Let’s build something worth playing — GitHub, LinkedIn and Behance.">
+</picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-bilawalbaig8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilawalbaig8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
