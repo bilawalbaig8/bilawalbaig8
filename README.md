@@ -1,4 +1,7 @@
-<img src="assets/studio-hero.svg" width="100%" alt="Bilawal Baig — AI + Game Pipeline Lead. Technical art, animation and playable ads.">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-v2.png">
+  <img src="assets/hero-v2.gif" width="100%" alt="Hi, I’m Bilawal Baig. AI + Game Pipeline Lead — Technical Art, Animation, Game Development and Playable Ads.">
+</picture>
 
 # Bilawal Baig
 
@@ -7,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
 [![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
 
-<img align="right" src="assets/photo.png" width="120" alt="Bilawal Baig">
+<img src="assets/about-v2.svg" width="100%" alt="My creative approach: AI-driven game art, technical art and animation, playable experiences.">
 
 ## About
 
@@ -17,10 +20,6 @@ My background is in 3D art and technical game production. My work has moved from
 
 My approach is hands-on: experiment, build, test, and improve.
 
-<br clear="right">
-
-<img src="assets/studio-pipeline.svg" width="100%" alt="Production pipeline: art and animation, tools and AI, playable experiences">
-
 ## What I work on
 
 - **AI-driven game art production:** bringing AI tools into existing production so there is less repetitive work.
@@ -28,20 +27,7 @@ My approach is hands-on: experiment, build, test, and improve.
 - **Playable ads:** a plugin that converts Unity game projects into web-based playable experiences, tested on real projects and still being refined.
 - **Creative production for mobile games:** planning video ads, playable ads and creative variations, and removing bottlenecks in the pipeline.
 
-## Featured open-source projects
-
-| Project | What I’m building |
-| --- | --- |
-| [CocosCreator Batch Builder](https://github.com/bilawalbaig8/CocosCreator-Batch-Builder) | Mass-building Cocos Creator 3.8.7 playable ads, scene variants, packaging and Playwright validation. |
-| [hire-an-engineer](https://github.com/bilawalbaig8/hire-an-engineer) | A planning-and-building skill for people using AI coding tools without an engineering background. |
-| [delegate-to-gemini](https://github.com/bilawalbaig8/delegate-to-gemini) | Research, drafting and analysis delegation to Gemini, with shared project memory. |
-
-## AI production experiments
-
-Small experiments in AI-driven game art production. I guide the direction and review the results; AI carries out much of the art work.
-
-- **[Kittydoku](https://play.google.com/store/apps/details?id=com.mindstorm.kittydoku):** the first experiment. AI handled the workflow from tile concepts and artwork to 3D modeling, animation, VFX and Unity integration.
-- **[Toyland Go!](https://play.google.com/store/apps/details?id=com.mindstorm.goodsortshooter)** and **[Mall Bus Jam](https://play.google.com/store/apps/details?id=com.mindstorm.molebusjam):** the same approach on two more games. The artwork for both was done in one day, with a lot of human direction and review.
+<img src="assets/toolkit-v2.svg" width="100%" alt="My production toolkit: game engines, DCC, code, graphics and AI tools.">
 
 ## Tech stack
 
@@ -50,10 +36,14 @@ Small experiments in AI-driven game art production. I guide the direction and re
 - **Graphics and web:** Shaders · ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 - **AI tools and automation:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-<details>
-<summary><strong>Games and projects I’ve worked on</strong></summary>
+## AI production experiments
 
+Small experiments in AI-driven game art production. I guide the direction and review the results; AI carries out much of the art work.
 
+- **[Kittydoku](https://play.google.com/store/apps/details?id=com.mindstorm.kittydoku):** the first experiment. AI handled the workflow from tile concepts and artwork to 3D modeling, animation, VFX and Unity integration.
+- **[Toyland Go!](https://play.google.com/store/apps/details?id=com.mindstorm.goodsortshooter)** and **[Mall Bus Jam](https://play.google.com/store/apps/details?id=com.mindstorm.molebusjam):** the same approach on two more games. The artwork for both was done in one day, with a lot of human direction and review.
+
+## Games and projects I've worked on
 
 These are the titles listed under my roles on LinkedIn, grouped by company. Some older store pages are no longer online, so a few titles have no link.
 
@@ -75,11 +65,6 @@ These are the titles listed under my roles on LinkedIn, grouped by company. Some
 **Mictlan: An Ancient Mythical Tale**
 - [Steam page](https://store.steampowered.com/app/1411900/) and my [cinematic and animation work](https://www.behance.net/gallery/206426689/Mictlan-Cinematic-and-Animation) on Behance
 
-</details>
-
-<details>
-<summary><strong>Experience and education</strong></summary>
-
 ## Experience
 
 - **2020 – now:** Lead 3D Artist — Creative Production, Playable Ads & AI-Assisted Pipelines · Mindstorm Studios (Sr. 3D Artist before that)
@@ -94,7 +79,16 @@ These are the titles listed under my roles on LinkedIn, grouped by company. Some
 - BS, Computer Science · University of the People (in progress, 2023 – 2028)
 - Master's in Media Sciences, Design & Advertising · Iqra University (2014 – 2018)
 
-</details>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dashboard-v2.png">
+  <img src="assets/dashboard-v2.gif" width="100%" alt="Animated studio ID with my portrait and production dashboard: 10+ years in production, 3 AI production experiments, 3 featured open-source tools.">
+</picture>
+
+## Open-source projects
+
+- **[CocosCreator-Batch-Builder](https://github.com/bilawalbaig8/CocosCreator-Batch-Builder):** starter kit for mass-building Cocos Creator 3.8.7 playable ads. Automated multi-scene builds, iteration variants, superHTML packaging, Playwright scene validation and a local web dashboard.
+- **[hire-an-engineer](https://github.com/bilawalbaig8/hire-an-engineer):** a skill that turns an AI coding tool into a planning-and-building engineer for people who build with AI but have no engineering background. Works with Claude Code, Cursor, Codex and other agents. MIT licensed.
+- **[delegate-to-gemini](https://github.com/bilawalbaig8/delegate-to-gemini):** a Claude Code skill that sends research, drafting and analysis tasks to Gemini and keeps shared project memory between both tools.
 
 ## My contribution city
 
@@ -105,7 +99,12 @@ A year of building, mapped into a city. Updated daily from my GitHub contributio
   <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Bilawal Baig’s GitHub contributions as a 3D city">
 </picture>
 
-<img src="assets/studio-connect.svg" width="100%" alt="Let’s build something playable — game art, production tools and creative workflows">
+<img src="assets/connect-v2.svg" width="100%" alt="Let’s build something worth playing. GitHub, LinkedIn and Behance.">
 
+[![GitHub](https://img.shields.io/badge/GitHub-bilawalbaig8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilawalbaig8)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
 [![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
+
+## AI × creative production
+
+<img src="assets/banner-partnership.jpg" width="100%" alt="My original AI and creative production partnership banner.">
