@@ -27,7 +27,7 @@ My approach is hands-on: experiment, build, test, and improve.
 - **Playable ads:** a plugin that converts Unity game projects into web-based playable experiences, tested on real projects and still being refined.
 - **Creative production for mobile games:** planning video ads, playable ads and creative variations, and removing bottlenecks in the pipeline.
 
-<img src="assets/toolkit-v2.svg" width="100%" alt="My production toolkit: game engines, DCC, code, graphics and AI tools.">
+<img src="assets/toolkit-v2.svg?v=meditation" width="100%" alt="My production toolkit: game engines, DCC, code, graphics and AI tools.">
 
 ## Tech stack
 
