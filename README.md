@@ -3,12 +3,14 @@
   <img src="assets/hero-v2.gif" width="100%" alt="Hi, I’m Bilawal Baig. AI + Game Pipeline Lead — Technical Art, Animation, Game Development and Playable Ads.">
 </picture>
 
+[View the static profile](STATIC.md)
+
 # Bilawal Baig
 
 **AI + Game Pipeline Lead** · Technical Art, Animation & Game Development · three.js Playable Ads
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
-[![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-273847?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
+[![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-273847?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
 
 <img src="assets/about-v2.svg" width="100%" alt="My creative approach: AI-driven game art, technical art and animation, playable experiences.">
 
@@ -34,10 +36,10 @@ My approach is hands-on: experiment, build, test, and improve.
 
 ## Tech stack
 
-- **Engines and DCC:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
-- **Code:** ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Graphics and web:** Shaders · ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-- **AI tools and automation:** ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+- **Engines and DCC:** ![Unity](https://img.shields.io/badge/Unity-273847?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-273847?style=flat-square&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-273847?style=flat-square&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Maya-273847?style=flat-square&logo=autodesk&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-273847?style=flat-square&logo=adobeaftereffects&logoColor=white)
+- **Code:** ![C#](https://img.shields.io/badge/C%23-273847?style=flat-square&logo=dotnet&logoColor=white) ![Python](https://img.shields.io/badge/Python-273847?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-273847?style=flat-square&logo=javascript&logoColor=white)
+- **Graphics and web:** Shaders · ![WebGL](https://img.shields.io/badge/WebGL-273847?style=flat-square&logo=webgl&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-273847?style=flat-square&logo=threedotjs&logoColor=white)
+- **AI tools and automation:** ![Claude](https://img.shields.io/badge/Claude-273847?style=flat-square&logo=claude&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-273847?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-273847?style=flat-square&logo=googlegemini&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-273847?style=flat-square&logo=deepseek&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-273847?style=flat-square&logo=n8n&logoColor=white)
 
 ## AI production experiments
 
@@ -89,6 +91,8 @@ These are the titles listed under my roles on LinkedIn, grouped by company. Some
 
 ## Open-source projects
 
+- **[github-profile-studio](https://github.com/bilawalbaig8/github-profile-studio):** a reusable skill for building illustrated GitHub profiles with animated panels and static alternatives.
+
 - **[CocosCreator-Batch-Builder](https://github.com/bilawalbaig8/CocosCreator-Batch-Builder):** starter kit for mass-building Cocos Creator 3.8.7 playable ads. Automated multi-scene builds, iteration variants, superHTML packaging, Playwright scene validation and a local web dashboard.
 - **[hire-an-engineer](https://github.com/bilawalbaig8/hire-an-engineer):** a skill that turns an AI coding tool into a planning-and-building engineer for people who build with AI but have no engineering background. Works with Claude Code, Cursor, Codex and other agents. MIT licensed.
 - **[delegate-to-gemini](https://github.com/bilawalbaig8/delegate-to-gemini):** a Claude Code skill that sends research, drafting and analysis tasks to Gemini and keeps shared project memory between both tools.
@@ -108,8 +112,8 @@ A year of building, mapped into a city. Updated daily from my GitHub contributio
 </picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-bilawalbaig8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilawalbaig8)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
-[![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-273847?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
+[![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-273847?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
 
 ## AI × creative production
 
