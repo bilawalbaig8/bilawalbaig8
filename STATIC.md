@@ -78,7 +78,7 @@ These are the titles listed under my roles on LinkedIn, grouped by company. Some
 - BS, Computer Science · University of the People (in progress, 2023 – 2028)
 - Master's in Media Sciences, Design & Advertising · Iqra University (2014 – 2018)
 
-<img src="assets/published/navy-dashboard-36d7250b1681.png" width="100%" alt="Animated studio ID with my portrait and production dashboard: 10+ years in production, 3 AI production experiments, 3 featured open-source tools.">
+<img src="assets/published/navy-dashboard-e9ac704a2826.png" width="100%" alt="Animated studio ID with my portrait and production dashboard: 10+ years in production, 3 AI production experiments, 3 featured open-source tools.">
 
 ## Open-source projects
 

@@ -85,8 +85,8 @@ These are the titles listed under my roles on LinkedIn, grouped by company. Some
 - Master's in Media Sciences, Design & Advertising · Iqra University (2014 – 2018)
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/published/navy-dashboard-36d7250b1681.png">
-  <img src="assets/published/navy-dashboard-2591ba8b7ab7.gif" width="100%" alt="Animated studio ID with my portrait and production dashboard: 10+ years in production, 3 AI production experiments, 3 featured open-source tools.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/published/navy-dashboard-e9ac704a2826.png">
+  <img src="assets/published/navy-dashboard-09665b629818.gif" width="100%" alt="Animated studio ID with my portrait and production dashboard: 10+ years in production, 3 AI production experiments, 3 featured open-source tools.">
 </picture>
 
 ## Open-source projects

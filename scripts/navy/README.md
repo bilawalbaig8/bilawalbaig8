@@ -9,3 +9,5 @@ The original composition and toolkit source snapshots plus SVG templates are ret
 Temporary PNG frames go under `frames/` and are excluded from Git. `--ready-only` builds currently available panels during artwork preparation; the normal build requires every supplied raster.
 
 Published panels use content-addressed navy filenames under assets/published/. Run node publish-assets.cjs to refresh publication copies and both profile documents without rendering. The full build invokes this automatically; changed artwork receives a new URL. About is published as PNG for GitHub image compatibility.
+
+For an ID-card-only change, run node build.cjs --dashboard-only. This renders only the dashboard, then refreshes publication URLs and both profile documents.
