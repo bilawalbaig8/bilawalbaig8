@@ -7,3 +7,5 @@ Generated raster artwork is in `../../assets/navy/`. It was relit with image gen
 The original composition and toolkit source snapshots plus SVG templates are retained here so changes are reproducible. Their former README-rewrite entry points are never executed. Decorative SVG colors are mapped to navy, slate, and off-white. All four animations contain 72 frames at 12 fps, six seconds, looping forever. The contribution city is maintained separately by the existing workflow.
 
 Temporary PNG frames go under `frames/` and are excluded from Git. `--ready-only` builds currently available panels during artwork preparation; the normal build requires every supplied raster.
+
+Published panels use content-addressed navy filenames under assets/published/. Run node publish-assets.cjs to refresh publication copies and both profile documents without rendering. The full build invokes this automatically; changed artwork receives a new URL. About is published as PNG for GitHub image compatibility.

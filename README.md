@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-v2.png">
-  <img src="assets/hero-v2.gif" width="100%" alt="Hi, I’m Bilawal Baig. AI + Game Pipeline Lead — Technical Art, Animation, Game Development and Playable Ads.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/published/navy-hero-01def0ff0635.png">
+  <img src="assets/published/navy-hero-ed1a884349ff.gif" width="100%" alt="Hi, I’m Bilawal Baig. AI + Game Pipeline Lead — Technical Art, Animation, Game Development and Playable Ads.">
 </picture>
 
 [View the static profile](STATIC.md)
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bilawalbaig8-273847?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilawalbaig8/)
 [![Behance](https://img.shields.io/badge/Behance-bilawalbaig8-273847?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bilawalbaig8)
 
-<img src="assets/about-v2.svg" width="100%" alt="My creative approach: AI-driven game art, technical art and animation, playable experiences.">
+<img src="assets/published/navy-about-1b3fd908b051.png" width="100%" alt="My creative approach: AI-driven game art, technical art and animation, playable experiences.">
 
 ## About
 
@@ -30,8 +30,8 @@ My approach is hands-on: experiment, build, test, and improve.
 - **Creative production for mobile games:** planning video ads, playable ads and creative variations, and removing bottlenecks in the pipeline.
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/toolkit-floating.png">
-  <img src="assets/toolkit-floating.gif" width="100%" alt="My production toolkit, with my full meditation pose gently levitating and eight tool icons floating independently. Unity, Unreal, Blender, Maya, After Effects, C#, Python, JavaScript, Three.js, WebGL and AI tools.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/published/navy-toolkit-e060e31ea1f0.png">
+  <img src="assets/published/navy-toolkit-7d63769ad16c.gif" width="100%" alt="My production toolkit, with my full meditation pose gently levitating and eight tool icons floating independently. Unity, Unreal, Blender, Maya, After Effects, C#, Python, JavaScript, Three.js, WebGL and AI tools.">
 </picture>
 
 ## Tech stack
@@ -85,8 +85,8 @@ These are the titles listed under my roles on LinkedIn, grouped by company. Some
 - Master's in Media Sciences, Design & Advertising · Iqra University (2014 – 2018)
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/dashboard-v2.png">
-  <img src="assets/dashboard-v2.gif" width="100%" alt="Animated studio ID with my portrait and production dashboard: 10+ years in production, 3 AI production experiments, 3 featured open-source tools.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/published/navy-dashboard-36d7250b1681.png">
+  <img src="assets/published/navy-dashboard-2591ba8b7ab7.gif" width="100%" alt="Animated studio ID with my portrait and production dashboard: 10+ years in production, 3 AI production experiments, 3 featured open-source tools.">
 </picture>
 
 ## Open-source projects
@@ -107,8 +107,8 @@ A year of building, mapped into a city. Updated daily from my GitHub contributio
 </picture>
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/connect-studio.png">
-  <img src="assets/connect-studio.gif" width="100%" alt="Bilawal seated facing the camera in his game-development studio, with the complete chair and pose visible. Let’s build something worth playing — GitHub, LinkedIn and Behance.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/published/navy-contact-f4f60d9eb6e1.png">
+  <img src="assets/published/navy-contact-3fb6e93a1bd0.gif" width="100%" alt="Bilawal seated facing the camera in his game-development studio, with the complete chair and pose visible. Let’s build something worth playing — GitHub, LinkedIn and Behance.">
 </picture>
 
 [![GitHub](https://img.shields.io/badge/GitHub-bilawalbaig8-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bilawalbaig8)
@@ -117,4 +117,4 @@ A year of building, mapped into a city. Updated daily from my GitHub contributio
 
 ## AI × creative production
 
-<img src="assets/banner-partnership.jpg" width="100%" alt="My original AI and creative production partnership banner.">
+<img src="assets/published/navy-partnership-6ac6349d8fe4.jpg" width="100%" alt="My original AI and creative production partnership banner.">
